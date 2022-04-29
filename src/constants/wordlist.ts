@@ -1,4 +1,5 @@
 export const WORDS = [
+'atest', //PLACEHOLDER WORD FOR DAY 0
 'crazy',
 'emily',
 'brain',
